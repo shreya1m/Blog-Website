@@ -1,4 +1,4 @@
-#The Thoughtful Trail - A Bespoke Blogging Platform
+*The Thoughtful Trail - A Bespoke Blogging Platform
 ##Overview
 The Thoughtful Trail is a unique blogging platform that showcases the fusion of Html, Css, Javascript, EJS, Node.js, Express.js, and MongoDB Atlas. This project is a manifestation of my dedication to crafting a bespoke blogging experience, allowing users to effortlessly compose and publish blogs. With a dedicated page for each blog, the platform aims to enhance reader experience and engagement.
 
