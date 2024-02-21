@@ -21,8 +21,7 @@ Dedicated Blog Pages: Each blog on the platform has its dedicated page, enrichin
 To run this project locally, follow these steps:
 
 ### Clone the repository:
-git clone https://github.com/your-username/your-repo.git
-
+git clone https://github.com/shreya1m/Blog-Website
 ### Install dependencies:
 
 - cd your-repo
