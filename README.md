@@ -9,13 +9,13 @@ Dedicated Blog Pages: Each blog on the platform has its dedicated page, enrichin
 
 ## Technological Stack:
 
--HTML: For structuring the content.
--CSS: Styling to ensure an aesthetically pleasing design.
--JavaScript: Adding dynamic functionality to the platform.
--EJS: Embedded JavaScript templates for efficient rendering.
--Node.js: For server-side JavaScript.
--Express.js: Facilitating the development of web applications.
--MongoDB Atlas: A cloud-based database for storing blog data.
+- HTML: For structuring the content.
+- CSS: Styling to ensure an aesthetically pleasing design.
+- JavaScript: Adding dynamic functionality to the platform.
+- EJS: Embedded JavaScript templates for efficient rendering.
+- Node.js: For server-side JavaScript.
+- Express.js: Facilitating the development of web applications.
+- MongoDB Atlas: A cloud-based database for storing blog data.
 
 ## Getting Started
 To run this project locally, follow these steps:
@@ -25,18 +25,18 @@ git clone https://github.com/your-username/your-repo.git
 
 ### Install dependencies:
 
--cd your-repo
--npm install
+- cd your-repo
+- npm install
 
 ### Set up MongoDB Atlas:
 
--Create a MongoDB Atlas account.
--Configure your connection string in the appropriate environment variables or configuration files.
+- Create a MongoDB Atlas account.
+- Configure your connection string in the appropriate environment variables or configuration files.
 
 ### Run the application:
 
--npm start
--Open your browser and visit http://localhost:3000 to explore The Thoughtful Trail locally.
+- npm start
+- Open your browser and visit http://localhost:3000 to explore The Thoughtful Trail locally.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to The Thoughtful Trail, please follow the guidelines outlined in the CONTRIBUTING.md file.
