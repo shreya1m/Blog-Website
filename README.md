@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 git clone https://github.com/shreya1m/Blog-Website
 ### Install dependencies:
 
-- cd your-repo
+- cd Blog-Website
 - npm install
 
 ### Set up MongoDB Atlas:
@@ -38,7 +38,7 @@ git clone https://github.com/shreya1m/Blog-Website
 - Open your browser and visit http://localhost:3000 to explore The Thoughtful Trail locally.
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute to The Thoughtful Trail, please follow the guidelines outlined in the CONTRIBUTING.md file.
+Contributions are welcome! If you'd like to contribute to The Thoughtful Trail.
 
 ## Acknowledgments
 I would like to express my gratitude to the open-source community for their invaluable contributions and inspiration.
